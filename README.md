@@ -8,10 +8,10 @@ This project features 3D animated scenes, smooth transitions, scroll-triggered e
 
 🛠️ Tech Stack
 
--React 19
--Three.js
--React Three Fiber
--Drei
--GSAP
--Tailwind CSS
--Vite
+- React 19
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP
+- Tailwind CSS
+- Vite
